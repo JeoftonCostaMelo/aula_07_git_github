@@ -2,3 +2,5 @@
 Repositório de nivelamento de git e github
 
 ## Demonstrando a alteração de modified
+
+## Implementado o while
